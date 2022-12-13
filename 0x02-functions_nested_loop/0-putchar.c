@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - print _putchar
+* main - prints _putchar
 * is written by mufatech
 * Return: 0
 */
