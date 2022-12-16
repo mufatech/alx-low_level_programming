@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * more_numbers - print more numbers
- * mufatech code
- * 
- */
+* more_numbers - print more numbers
+* mufatech code
+*
+*/
 
 void more_numbers(void)
 {
