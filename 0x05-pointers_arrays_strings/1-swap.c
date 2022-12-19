@@ -1,9 +1,9 @@
 #include "main.h"
 /**
 * swap_int - swaps the value of int a and int b
-* written by mufatech
 * @a: first int
 * @b: second int
+* written by mufatech
 * Return 0
 */
 void swap_int(int *a, int *b)
