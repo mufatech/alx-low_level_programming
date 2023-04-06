@@ -1,10 +1,12 @@
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
 #include "hash_tables.h"
 
 /**
  * hash_table_create - creates a hash table
  * @size: size of the array
  *
- * compiled: mufatech
  *
  * Return: pointer to the hash table newly created
  */
